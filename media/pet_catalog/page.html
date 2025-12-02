@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html data-bs-theme="[[theme]]">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Pet Catalog</title>
+
+    <link rel="stylesheet" href="{{pet_catalog/css/bootstrap.min.css}}">
+    <link rel="stylesheet" href="{{pet_catalog/css/style.css}}">
+</head>
+
+<body>
+
+    <div class="d-flex vh-100">
+        <div class="d-flex flex-column flex-shrink-0 p-2 h-100 border-end" style="width: 200px;" id="sidebar">
+            <!-- Sidebar content will be dynamically generated here -->
+        </div>
+
+        <main class="flex-grow-1 overflow-auto pb-3 px-3" id="app">
+            <!-- Main content will be dynamically generated here -->
+        </main>
+    </div>
+
+    <script src="{{pet_catalog/js/bootstrap.bundle.min.js}}"></script>
+    <script src="{{pet_catalog/js/main.js}}"></script>
+</body>
+</html>

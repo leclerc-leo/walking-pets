@@ -1,0 +1,58 @@
+#app .card-title {
+    font-size: 0.85rem;
+}
+
+/* Chrome, Safari, Edge, Opera */
+.card input::-webkit-outer-spin-button,
+.card input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Firefox */
+.card input[type=number] {
+    appearance: textfield;
+    -moz-appearance: textfield;
+}
+
+body {
+    padding: 0;
+}
+
+* {
+    -webkit-user-drag: none;
+}
+
+.nav {
+    --bs-link-color: #c29a5d !important;
+    --bs-link-hover-color: #a87d41 !important;
+}
+
+.nav-pills {
+    --bs-nav-pills-link-active-bg: #c29a5d !important;
+}
+
+.nav-pills .nav-link.active {
+    color: var(--bs-body-color) !important;
+}
+
+.pet-card {
+    min-width: 150px !important;
+}
+
+.pet-img {
+    position: inherit;
+    min-height: 20%;
+    max-height: 78%;
+    width: unset !important;
+    z-index: 1;
+    bottom: 17%;
+}
+
+.pet-background {
+    position: absolute;
+    bottom: 10%;
+    width: 70%;
+    z-index: 0;
+    opacity: 0.7;
+}

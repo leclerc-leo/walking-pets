@@ -1,0 +1,9 @@
+{
+    "vscode_custom_css.imports": [
+        "file://${workspaceFolder}/injected/custom.css",
+        "file://${workspaceFolder}/injected/custom.js",
+    ],
+    "files.exclude": {
+        "**/package.json": false,
+    }
+}

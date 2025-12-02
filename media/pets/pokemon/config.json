@@ -1,0 +1,3508 @@
+{
+    "name": "Pokemon",
+    "categories": {
+        "gen1": {
+            "name": "Generation 1"
+        },
+        "gen2": {
+            "name": "Generation 2"
+        },
+        "gen3": {
+            "name": "Generation 3"
+        }
+    },
+    "pets": {
+        "gen1/abra": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen1/aerodactyl": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 23
+            },
+            "walk": {
+                "size": 26
+            }
+        },
+        "gen1/alakazam": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 22
+            },
+            "walk": {
+                "size": 23
+            }
+        },
+        "gen1/arbok": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 22
+            },
+            "walk": {
+                "size": 22
+            }
+        },
+        "gen1/arcanine": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 28
+            },
+            "walk": {
+                "size": 22
+            }
+        },
+        "gen1/articuno": {
+            "background": "pokemon/ice",
+            "idle": {
+                "size": 30
+            },
+            "walk": {
+                "size": 29
+            }
+        },
+        "gen1/beedrill": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen1/bellsprout": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 19
+            },
+            "walk": {
+                "size": 17
+            }
+        },
+        "gen1/blastoise": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 23
+            },
+            "walk": {
+                "size": 22
+            }
+        },
+        "gen1/bulbasaur": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 15
+            }
+        },
+        "gen1/butterfree": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen1/caterpie": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 17
+            },
+            "walk": {
+                "size": 17
+            }
+        },
+        "gen1/chansey": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 17
+            },
+            "walk": {
+                "size": 17
+            }
+        },
+        "gen1/charizard": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 23
+            }
+        },
+        "gen1/charmander": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen1/charmeleon": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen1/clefable": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 19
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen1/clefairy": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen1/cloyster": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 28
+            }
+        },
+        "gen1/cubone": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen1/dewgong": {
+            "background": "pokemon/ice",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen1/diglett": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 12
+            },
+            "walk": {
+                "size": 12
+            }
+        },
+        "gen1/ditto": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 13
+            },
+            "walk": {
+                "size": 13
+            }
+        },
+        "gen1/dodrio": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 29
+            },
+            "walk": {
+                "size": 28
+            }
+        },
+        "gen1/doduo": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 19
+            },
+            "walk": {
+                "size": 22
+            }
+        },
+        "gen1/dragonair": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 27
+            },
+            "walk": {
+                "size": 25
+            }
+        },
+        "gen1/dragonite": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 25
+            }
+        },
+        "gen1/dratini": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen1/drowzee": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen1/dugtrio": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen1/eevee": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen1/ekans": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 17
+            }
+        },
+        "gen1/electabuzz": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 22
+            },
+            "walk": {
+                "size": 22
+            }
+        },
+        "gen1/electrode": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen1/exeggcute": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 22
+            }
+        },
+        "gen1/exeggutor": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 28
+            },
+            "walk": {
+                "size": 26
+            }
+        },
+        "gen1/farfetchd": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen1/fearow": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 23
+            }
+        },
+        "gen1/flareon": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 23
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen1/gastly": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 22
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen1/gengar": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 19
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen1/geodude": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 10
+            },
+            "walk": {
+                "size": 12
+            }
+        },
+        "gen1/gloom": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 17
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen1/golbat": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 23
+            }
+        },
+        "gen1/goldeen": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 15
+            }
+        },
+        "gen1/golduck": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 22
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen1/golem": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen1/graveler": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen1/grimer": {
+            "background": "pokemon/mud",
+            "idle": {
+                "size": 17
+            },
+            "walk": {
+                "size": 17
+            }
+        },
+        "gen1/growlithe": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen1/gyarados": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 30
+            },
+            "walk": {
+                "size": 30
+            }
+        },
+        "gen1/haunter": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 17
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen1/hitmonchan": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen1/hitmonlee": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen1/horsea": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen1/hypno": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 22
+            },
+            "walk": {
+                "size": 22
+            }
+        },
+        "gen1/ivysaur": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 19
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen1/jigglypuff": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 15
+            },
+            "walk": {
+                "size": 15
+            }
+        },
+        "gen1/jolteon": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 22
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen1/jynx": {
+            "background": "pokemon/ice",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 23
+            }
+        },
+        "gen1/kabuto": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 14
+            },
+            "walk": {
+                "size": 14
+            }
+        },
+        "gen1/kabutops": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen1/kadabra": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen1/kakuna": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen1/kangaskhan": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 23
+            }
+        },
+        "gen1/kingler": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 23
+            },
+            "walk": {
+                "size": 22
+            }
+        },
+        "gen1/koffing": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 22
+            }
+        },
+        "gen1/krabby": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 15
+            },
+            "walk": {
+                "size": 12
+            }
+        },
+        "gen1/lapras": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 22
+            },
+            "walk": {
+                "size": 23
+            }
+        },
+        "gen1/lickitung": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 19
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen1/machamp": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 22
+            }
+        },
+        "gen1/machoke": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen1/machop": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 17
+            }
+        },
+        "gen1/magikarp": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen1/magmar": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 22
+            }
+        },
+        "gen1/magnemite": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 12
+            },
+            "walk": {
+                "size": 13
+            }
+        },
+        "gen1/magneton": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 22
+            },
+            "walk": {
+                "size": 23
+            }
+        },
+        "gen1/mankey": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 15
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen1/marowak": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen1/meowth": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 23
+            },
+            "walk": {
+                "size": 15
+            }
+        },
+        "gen1/metapod": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 17
+            }
+        },
+        "gen1/mew": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen1/mewtwo": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 27
+            },
+            "walk": {
+                "size": 26
+            }
+        },
+        "gen1/moltres": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 28
+            },
+            "walk": {
+                "size": 27
+            }
+        },
+        "gen1/mrmime": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen1/muk": {
+            "background": "pokemon/mud",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen1/nidoking": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen1/nidoqueen": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 22
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen1/nidoran_female": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 15
+            },
+            "walk": {
+                "size": 15
+            }
+        },
+        "gen1/nidoran_male": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 14
+            }
+        },
+        "gen1/nidorina": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 17
+            },
+            "walk": {
+                "size": 17
+            }
+        },
+        "gen1/nidorino": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen1/ninetales": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 23
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen1/oddish": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 13
+            },
+            "walk": {
+                "size": 13
+            }
+        },
+        "gen1/omanyte": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen1/omastar": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 22
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen1/onix": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 29
+            },
+            "walk": {
+                "size": 29
+            }
+        },
+        "gen1/paras": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 15
+            }
+        },
+        "gen1/parasect": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 23
+            },
+            "walk": {
+                "size": 22
+            }
+        },
+        "gen1/persian": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 26
+            },
+            "walk": {
+                "size": 17
+            }
+        },
+        "gen1/pidgeot": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 30
+            },
+            "walk": {
+                "size": 29
+            }
+        },
+        "gen1/pidgeotto": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 23
+            }
+        },
+        "gen1/pidgey": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 14
+            },
+            "walk": {
+                "size": 13
+            }
+        },
+        "gen1/pikachu": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 17
+            }
+        },
+        "gen1/pinsir": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 22
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen1/poliwag": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 15
+            },
+            "walk": {
+                "size": 15
+            }
+        },
+        "gen1/poliwhirl": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 17
+            }
+        },
+        "gen1/poliwrath": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 19
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen1/ponyta": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen1/porygon": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 17
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen1/primeape": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen1/psyduck": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen1/raichu": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 22
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen1/rapidash": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 27
+            },
+            "walk": {
+                "size": 24
+            }
+        },
+        "gen1/raticate": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 14
+            }
+        },
+        "gen1/rattata": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 19
+            },
+            "walk": {
+                "size": 13
+            }
+        },
+        "gen1/rhydon": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen1/rhyhorn": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen1/sandshrew": {
+            "background": "pokemon/sand",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen1/sandslash": {
+            "background": "pokemon/sand",
+            "idle": {
+                "size": 19
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen1/scyther": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 23
+            }
+        },
+        "gen1/seadra": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 23
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen1/seaking": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 25
+            },
+            "walk": {
+                "size": 24
+            }
+        },
+        "gen1/seel": {
+            "background": "pokemon/ice",
+            "idle": {
+                "size": 19
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen1/shellder": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen1/slowbro": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen1/slowpoke": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 14
+            }
+        },
+        "gen1/snorlax": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 26
+            },
+            "walk": {
+                "size": 27
+            }
+        },
+        "gen1/spearow": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 14
+            },
+            "walk": {
+                "size": 14
+            }
+        },
+        "gen1/squirtle": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 15
+            },
+            "walk": {
+                "size": 15
+            }
+        },
+        "gen1/starmie": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 22
+            },
+            "walk": {
+                "size": 23
+            }
+        },
+        "gen1/staryu": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen1/tangela": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 19
+            },
+            "walk": {
+                "size": 17
+            }
+        },
+        "gen1/tauros": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 27
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen1/tentacool": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen1/tentacruel": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 23
+            },
+            "walk": {
+                "size": 22
+            }
+        },
+        "gen1/vaporeon": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 26
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen1/venomoth": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 24
+            }
+        },
+        "gen1/venonat": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen1/venusaur": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 23
+            }
+        },
+        "gen1/victreebel": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 26
+            },
+            "walk": {
+                "size": 24
+            }
+        },
+        "gen1/vileplume": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen1/voltorb": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 15
+            },
+            "walk": {
+                "size": 15
+            }
+        },
+        "gen1/vulpix": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 19
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen1/wartortle": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 17
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen1/weedle": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 17
+            },
+            "walk": {
+                "size": 15
+            }
+        },
+        "gen1/weepinbell": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen1/weezing": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 29
+            },
+            "walk": {
+                "size": 27
+            }
+        },
+        "gen1/wigglytuff": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen1/zapdos": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 23
+            },
+            "walk": {
+                "size": 24
+            }
+        },
+        "gen1/zubat": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen2/aipom": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen2/ampharos": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 23
+            },
+            "walk": {
+                "size": 24
+            }
+        },
+        "gen2/ariados": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 24
+            }
+        },
+        "gen2/azumarill": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen2/bayleef": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 24
+            }
+        },
+        "gen2/bellossom": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen2/blissey": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 19
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen2/celebi": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 19
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen2/chikorita": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen2/chinchou": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 13
+            },
+            "walk": {
+                "size": 15
+            }
+        },
+        "gen2/cleffa": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 14
+            },
+            "walk": {
+                "size": 14
+            }
+        },
+        "gen2/corsola": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 17
+            }
+        },
+        "gen2/crobat": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 23
+            },
+            "walk": {
+                "size": 25
+            }
+        },
+        "gen2/croconaw": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 24
+            }
+        },
+        "gen2/cyndaquil": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 19
+            },
+            "walk": {
+                "size": 15
+            }
+        },
+        "gen2/delibird": {
+            "background": "pokemon/snow",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen2/donphan": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen2/dunsparce": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 23
+            },
+            "walk": {
+                "size": 14
+            }
+        },
+        "gen2/elekid": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 17
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen2/entei": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 27
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen2/espeon": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 26
+            },
+            "walk": {
+                "size": 22
+            }
+        },
+        "gen2/feraligatr": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 27
+            },
+            "walk": {
+                "size": 27
+            }
+        },
+        "gen2/flaaffy": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen2/forretress": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen2/furret": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 26
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen2/girafarig": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 23
+            },
+            "walk": {
+                "size": 23
+            }
+        },
+        "gen2/gligar": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 22
+            },
+            "walk": {
+                "size": 23
+            }
+        },
+        "gen2/granbull": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 23
+            }
+        },
+        "gen2/heracross": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 22
+            }
+        },
+        "gen2/hitmontop": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen2/hooh": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 38
+            },
+            "walk": {
+                "size": 35
+            }
+        },
+        "gen2/hoothoot": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen2/hoppip": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen2/houndoom": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 22
+            },
+            "walk": {
+                "size": 22
+            }
+        },
+        "gen2/houndour": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen2/igglybuff": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen2/jumpluff": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 19
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen2/kingdra": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 25
+            },
+            "walk": {
+                "size": 25
+            }
+        },
+        "gen2/lanturn": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 25
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen2/larvitar": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen2/ledian": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 22
+            },
+            "walk": {
+                "size": 24
+            }
+        },
+        "gen2/ledyba": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 19
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen2/lugia": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 37
+            },
+            "walk": {
+                "size": 37
+            }
+        },
+        "gen2/magby": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen2/magcargo": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen2/mantine": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen2/mareep": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen2/marill": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 14
+            },
+            "walk": {
+                "size": 15
+            }
+        },
+        "gen2/meganium": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 26
+            },
+            "walk": {
+                "size": 27
+            }
+        },
+        "gen2/miltank": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen2/misdreavus": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen2/murkrow": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen2/natu": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 14
+            },
+            "walk": {
+                "size": 15
+            }
+        },
+        "gen2/noctowl": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 23
+            },
+            "walk": {
+                "size": 27
+            }
+        },
+        "gen2/octillery": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen2/phanpy": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 15
+            },
+            "walk": {
+                "size": 15
+            }
+        },
+        "gen2/pichu": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 15
+            },
+            "walk": {
+                "size": 15
+            }
+        },
+        "gen2/piloswine": {
+            "background": "pokemon/ice",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen2/pineco": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen2/politoed": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 22
+            },
+            "walk": {
+                "size": 22
+            }
+        },
+        "gen2/porygon2": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 17
+            }
+        },
+        "gen2/pupitar": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen2/quagsire": {
+            "background": "pokemon/mud",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen2/quilava": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen2/qwilfish": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 15
+            }
+        },
+        "gen2/raikou": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 28
+            },
+            "walk": {
+                "size": 24
+            }
+        },
+        "gen2/remoraid": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 17
+            },
+            "walk": {
+                "size": 12
+            }
+        },
+        "gen2/scizor": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 23
+            },
+            "walk": {
+                "size": 24
+            }
+        },
+        "gen2/sentret": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 17
+            },
+            "walk": {
+                "size": 15
+            }
+        },
+        "gen2/shuckle": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 17
+            },
+            "walk": {
+                "size": 17
+            }
+        },
+        "gen2/skarmory": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 22
+            },
+            "walk": {
+                "size": 28
+            }
+        },
+        "gen2/skiploom": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 15
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen2/slowking": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 26
+            },
+            "walk": {
+                "size": 24
+            }
+        },
+        "gen2/slugma": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen2/smeargle": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 19
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen2/smoochum": {
+            "background": "pokemon/ice",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen2/sneasel": {
+            "background": "pokemon/snow",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen2/snubbull": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 17
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen2/spinarak": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 15
+            },
+            "walk": {
+                "size": 12
+            }
+        },
+        "gen2/stantler": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 26
+            },
+            "walk": {
+                "size": 27
+            }
+        },
+        "gen2/steelix": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 32
+            },
+            "walk": {
+                "size": 32
+            }
+        },
+        "gen2/sudowoodo": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen2/suicune": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 27
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen2/sunflora": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen2/sunkern": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 15
+            },
+            "walk": {
+                "size": 15
+            }
+        },
+        "gen2/swinub": {
+            "background": "pokemon/ice",
+            "idle": {
+                "size": 13
+            },
+            "walk": {
+                "size": 13
+            }
+        },
+        "gen2/teddiursa": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 17
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen2/togepi": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 15
+            },
+            "walk": {
+                "size": 15
+            }
+        },
+        "gen2/togetic": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 22
+            },
+            "walk": {
+                "size": 22
+            }
+        },
+        "gen2/totodile": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 17
+            },
+            "walk": {
+                "size": 17
+            }
+        },
+        "gen2/typhlosion": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 26
+            },
+            "walk": {
+                "size": 24
+            }
+        },
+        "gen2/tyranitar": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 25
+            },
+            "walk": {
+                "size": 24
+            }
+        },
+        "gen2/tyrogue": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen2/umbreon": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen2/ursaring": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 25
+            }
+        },
+        "gen2/wobbuffet": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen2/wooper": {
+            "background": "pokemon/mud",
+            "idle": {
+                "size": 14
+            },
+            "walk": {
+                "size": 14
+            }
+        },
+        "gen2/xatu": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 22
+            },
+            "walk": {
+                "size": 22
+            }
+        },
+        "gen2/yanma": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen3/absol": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 25
+            },
+            "walk": {
+                "size": 23
+            }
+        },
+        "gen3/aggron": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 28
+            },
+            "walk": {
+                "size": 26
+            }
+        },
+        "gen3/altaria": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 30
+            },
+            "walk": {
+                "size": 29
+            }
+        },
+        "gen3/anorith": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen3/armaldo": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 23
+            },
+            "walk": {
+                "size": 23
+            }
+        },
+        "gen3/aron": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 14
+            },
+            "walk": {
+                "size": 13
+            }
+        },
+        "gen3/azurill": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 15
+            },
+            "walk": {
+                "size": 12
+            }
+        },
+        "gen3/bagon": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 19
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen3/baltoy": {
+            "background": "pokemon/sand",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen3/banette": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen3/barboach": {
+            "background": "pokemon/mud",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen3/beautifly": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen3/beldum": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 19
+            },
+            "walk": {
+                "size": 15
+            }
+        },
+        "gen3/blaziken": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 24
+            }
+        },
+        "gen3/breloom": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen3/cacnea": {
+            "background": "pokemon/sand",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen3/cacturne": {
+            "background": "pokemon/sand",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen3/camerupt": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 25
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen3/carvanha": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen3/cascoon": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 13
+            },
+            "walk": {
+                "size": 13
+            }
+        },
+        "gen3/castform": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 15
+            },
+            "walk": {
+                "size": 15
+            }
+        },
+        "gen3/chimecho": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 15
+            },
+            "walk": {
+                "size": 15
+            }
+        },
+        "gen3/clamperl": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 15
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen3/claydol": {
+            "background": "pokemon/sand",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 22
+            }
+        },
+        "gen3/combusken": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen3/corphish": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen3/cradily": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 28
+            },
+            "walk": {
+                "size": 27
+            }
+        },
+        "gen3/crawdaunt": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 22
+            }
+        },
+        "gen3/delcatty": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 22
+            }
+        },
+        "gen3/deoxys": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 25
+            },
+            "walk": {
+                "size": 25
+            }
+        },
+        "gen3/deoxys_attack": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 26
+            },
+            "walk": {
+                "size": 26
+            }
+        },
+        "gen3/deoxys_defense": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 24
+            }
+        },
+        "gen3/deoxys_speed": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 28
+            },
+            "walk": {
+                "size": 24
+            }
+        },
+        "gen3/dusclops": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 24
+            }
+        },
+        "gen3/duskull": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 17
+            }
+        },
+        "gen3/dustox": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 17
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen3/electrike": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 13
+            }
+        },
+        "gen3/exploud": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 26
+            },
+            "walk": {
+                "size": 27
+            }
+        },
+        "gen3/feebas": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 15
+            }
+        },
+        "gen3/flygon": {
+            "background": "pokemon/sand",
+            "idle": {
+                "size": 25
+            },
+            "walk": {
+                "size": 22
+            }
+        },
+        "gen3/gardevoir": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 22
+            },
+            "walk": {
+                "size": 22
+            }
+        },
+        "gen3/glalie": {
+            "background": "pokemon/ice",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen3/gorebyss": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 29
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen3/groudon": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 38
+            },
+            "walk": {
+                "size": 36
+            }
+        },
+        "gen3/grovyle": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen3/grumpig": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 19
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen3/gulpin": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 15
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen3/hariyama": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 25
+            },
+            "walk": {
+                "size": 24
+            }
+        },
+        "gen3/huntail": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 30
+            },
+            "walk": {
+                "size": 26
+            }
+        },
+        "gen3/illumise": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 19
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen3/jirachi": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 17
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen3/kecleon": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen3/kirlia": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 19
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen3/kyogre": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 32
+            },
+            "walk": {
+                "size": 30
+            }
+        },
+        "gen3/lairon": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen3/latias": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 25
+            },
+            "walk": {
+                "size": 26
+            }
+        },
+        "gen3/latios": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 26
+            },
+            "walk": {
+                "size": 26
+            }
+        },
+        "gen3/lileep": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen3/linoone": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 22
+            },
+            "walk": {
+                "size": 14
+            }
+        },
+        "gen3/lombre": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen3/lotad": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 15
+            },
+            "walk": {
+                "size": 15
+            }
+        },
+        "gen3/loudred": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen3/ludicolo": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 25
+            },
+            "walk": {
+                "size": 25
+            }
+        },
+        "gen3/lunatone": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen3/luvdisc": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 15
+            },
+            "walk": {
+                "size": 15
+            }
+        },
+        "gen3/makuhita": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen3/manectric": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 23
+            },
+            "walk": {
+                "size": 23
+            }
+        },
+        "gen3/marshtomp": {
+            "background": "pokemon/mud",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen3/masquerain": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 22
+            }
+        },
+        "gen3/mawile": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen3/medicham": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 23
+            }
+        },
+        "gen3/meditite": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 17
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen3/metagross": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 25
+            },
+            "walk": {
+                "size": 24
+            }
+        },
+        "gen3/metang": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen3/mightyena": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 26
+            },
+            "walk": {
+                "size": 22
+            }
+        },
+        "gen3/milotic": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 24
+            }
+        },
+        "gen3/minun": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen3/mudkip": {
+            "background": "pokemon/mud",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen3/nincada": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 15
+            },
+            "walk": {
+                "size": 14
+            }
+        },
+        "gen3/ninjask": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 17
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen3/nosepass": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 19
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen3/numel": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen3/nuzleaf": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 22
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen3/pelipper": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 24
+            }
+        },
+        "gen3/plusle": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen3/poochyena": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 17
+            },
+            "walk": {
+                "size": 17
+            }
+        },
+        "gen3/ralts": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 15
+            }
+        },
+        "gen3/rayquaza": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 42
+            },
+            "walk": {
+                "size": 37
+            }
+        },
+        "gen3/regice": {
+            "background": "pokemon/ice",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 23
+            }
+        },
+        "gen3/regirock": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 25
+            },
+            "walk": {
+                "size": 26
+            }
+        },
+        "gen3/registeel": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 24
+            }
+        },
+        "gen3/relicanth": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen3/roselia": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 17
+            },
+            "walk": {
+                "size": 17
+            }
+        },
+        "gen3/sableye": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 17
+            }
+        },
+        "gen3/salamence": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 25
+            },
+            "walk": {
+                "size": 24
+            }
+        },
+        "gen3/sceptile": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 25
+            }
+        },
+        "gen3/sealeo": {
+            "background": "pokemon/ice",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen3/seedot": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen3/seviper": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 25
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen3/sharpedo": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 25
+            },
+            "walk": {
+                "size": 25
+            }
+        },
+        "gen3/shedinja": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen3/shelgon": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen3/shiftry": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen3/shroomish": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 15
+            },
+            "walk": {
+                "size": 15
+            }
+        },
+        "gen3/shuppet": {
+            "background": "pokemon/indoor",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen3/silcoon": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 13
+            },
+            "walk": {
+                "size": 13
+            }
+        },
+        "gen3/skitty": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 17
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen3/slaking": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 27
+            },
+            "walk": {
+                "size": 26
+            }
+        },
+        "gen3/slakoth": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 15
+            },
+            "walk": {
+                "size": 14
+            }
+        },
+        "gen3/snorunt": {
+            "background": "pokemon/ice",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen3/solrock": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 19
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen3/spheal": {
+            "background": "pokemon/ice",
+            "idle": {
+                "size": 15
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen3/spinda": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen3/spoink": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 19
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen3/surskit": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 15
+            },
+            "walk": {
+                "size": 15
+            }
+        },
+        "gen3/swablu": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen3/swalot": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 26
+            },
+            "walk": {
+                "size": 26
+            }
+        },
+        "gen3/swampert": {
+            "background": "pokemon/mud",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 24
+            }
+        },
+        "gen3/swellow": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen3/taillow": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 15
+            },
+            "walk": {
+                "size": 14
+            }
+        },
+        "gen3/torchic": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 18
+            }
+        },
+        "gen3/torkoal": {
+            "background": "pokemon/rocky",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 17
+            }
+        },
+        "gen3/trapinch": {
+            "background": "pokemon/sand",
+            "idle": {
+                "size": 13
+            },
+            "walk": {
+                "size": 13
+            }
+        },
+        "gen3/treecko": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen3/tropius": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 23
+            }
+        },
+        "gen3/vibrava": {
+            "background": "pokemon/sand",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen3/vigoroth": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 20
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen3/volbeat": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 20
+            }
+        },
+        "gen3/wailmer": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 19
+            },
+            "walk": {
+                "size": 19
+            }
+        },
+        "gen3/wailord": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 35
+            },
+            "walk": {
+                "size": 22
+            }
+        },
+        "gen3/walrein": {
+            "background": "pokemon/ice",
+            "idle": {
+                "size": 24
+            },
+            "walk": {
+                "size": 25
+            }
+        },
+        "gen3/whiscash": {
+            "background": "pokemon/mud",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen3/whismur": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 14
+            },
+            "walk": {
+                "size": 14
+            }
+        },
+        "gen3/wingull": {
+            "background": "pokemon/water",
+            "idle": {
+                "size": 16
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen3/wurmple": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen3/wynaut": {
+            "background": "pokemon/cave",
+            "idle": {
+                "size": 18
+            },
+            "walk": {
+                "size": 16
+            }
+        },
+        "gen3/zangoose": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 21
+            }
+        },
+        "gen3/zigzagoon": {
+            "background": "pokemon/grass",
+            "idle": {
+                "size": 21
+            },
+            "walk": {
+                "size": 15
+            }
+        }
+    }
+}

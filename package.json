@@ -1,0 +1,86 @@
+{
+    "name": "walking-pets",
+    "displayName": "walking-pets",
+    "description": "A VSCode extension that adds walking pets to your editor.",
+    "version": "0.0.2",
+    "engines": {
+        "vscode": "^1.70.0"
+    },
+    "repository": {
+        "type": "github",
+        "url": "https://github.com/leclerc-leo/walking-pets"
+    },
+    "homepage": "https://github.com/leclerc-leo/walking-pets",
+    "bugs": "https://github.com/leclerc-leo/walking-pets/issues",
+    "publisher": "leclerc-leo",
+    "pricing": "Free",
+    "categories": [
+        "Other"
+    ],
+    "keywords": [
+        "overlay",
+        "pets",
+        "pixelart",
+        "vscode",
+        "pixel"
+    ],
+    "license": "MIT",
+    "activationEvents": [
+        "onStartupFinished"
+    ],
+    "main": "./out/extension.js",
+    "contributes": {
+        "configuration": {
+            "type": "object",
+            "title": "Walking Pets Settings",
+            "properties": {
+                "walkingPets.pets": {
+                    "type": "array",
+                    "description": "List of pets with their settings",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "id": { "type": "number", "description": "Generated Automatically" },
+                            "source": { "type": "string", "enum": ["pokemon"] },
+                            "type": { "type": "string" },
+                            "scale": { "type": "number" }
+                        },
+                        "required": ["source", "type"]
+                    }
+                },
+                "walkingPets.scale" : {
+                    "type": "number",
+                    "default": 100.0,
+                    "description": "Default scale for all pets"
+                }
+            }
+        },
+        "commands": [
+            {
+                "command": "walkingPets.openCatalog",
+                "title": "Walking Pets: Open Catalog"
+            }
+        ]
+    },
+    "scripts": {
+        "vscode:prepublish": "npm run compile",
+        "compile": "tsc -p ./",
+        "watch": "tsc -watch -p ./",
+        "pretest": "npm run compile && npm run lint",
+        "lint": "eslint src"
+    },
+    "devDependencies": {
+        "@types/mocha": "^10.0.10",
+        "@types/node": "22.x",
+        "@types/vscode": "^1.70.0",
+        "@types/ws": "^8.18.1",
+        "@vscode/test-cli": "^0.0.12",
+        "@vscode/test-electron": "^2.5.2",
+        "eslint": "^9.39.1",
+        "typescript": "^5.9.3",
+        "typescript-eslint": "^8.46.3"
+    },
+    "dependencies": {
+        "ws": "^8.18.3"
+    }
+}

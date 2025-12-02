@@ -1,0 +1,14 @@
+{
+    "name": "Overlord",
+    "categories": {},
+    "pets": {
+        "ainz": {
+            "idle": {
+                "size": 32
+            },
+            "walk": {
+                "size": 32
+            }
+        }
+    }
+}

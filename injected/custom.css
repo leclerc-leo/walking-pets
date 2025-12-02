@@ -1,0 +1,36 @@
+.pet-container {
+    position: absolute;
+}
+
+.pet-image {
+    object-fit: cover;
+    -webkit-user-drag: none;
+    position: relative;
+    padding: 5px;
+    padding-bottom: 0;
+    image-rendering: pixelated;
+}
+
+.pet-hover-icon {
+    z-index: 110;
+    opacity: 0;
+    pointer-events: none;
+    display: block;
+    opacity: 0;
+    height: 50%;
+    aspect-ratio: 1 / 1;
+    content: "";
+    position: absolute;
+    object-fit: cover;
+    -webkit-user-drag: none;
+    transition: opacity 0.2s ease-in-out;
+    bottom: 75%;
+    left: 50%;
+    transform: translateX(-50%);
+    image-rendering: pixelated;
+}
+
+
+/* .debug > * {
+    border: 0.5px solid red;
+} */
