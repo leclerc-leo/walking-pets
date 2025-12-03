@@ -23,6 +23,10 @@ body {
     -webkit-user-drag: none;
 }
 
+img {
+    image-rendering: pixelated;
+}
+
 .nav {
     --bs-link-color: #c29a5d !important;
     --bs-link-hover-color: #a87d41 !important;
