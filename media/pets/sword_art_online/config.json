@@ -1,0 +1,13 @@
+{
+    "name": "Sword Art Online",
+    "pets": {
+        "kirito": {
+            "walk": {
+                "size": 30
+            },
+            "idle": {
+                "size": 30
+            }
+        }
+    }
+}
