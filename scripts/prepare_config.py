@@ -26,6 +26,9 @@ def load_existing_config(path):
 def get_pet_data(parent_folder, existing_data):
     data = existing_data.copy()  # start from previous data
 
+    if 'pets' not in data:
+        data['pets'] = {}
+
     for current_path, _dirs, files in os.walk(parent_folder):
         if not any(gif in files for gif in GIF_TYPES):
             continue
